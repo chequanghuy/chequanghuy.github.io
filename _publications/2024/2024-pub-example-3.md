@@ -1,5 +1,6 @@
 ---
 title:          "Adaptive Scheme of Clustering-Based Unsupervised Learning for Person Re-identification"
+date:           2024-01-1 00:01:00 +0800
 selected:       false
 pub:            "Asian Conference on Intelligent Information and Database Systems (ACIIDS)"
 pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
