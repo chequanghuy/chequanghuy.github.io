@@ -1,6 +1,6 @@
 ---
 title:          "TwinLiteNet+: A Stronger Model for Real-time Drivable Area and Lane Segmentation"
-date:           2024-01-1 00:01:00 +0800
+date:           2024-12-12 00:01:00 +0800
 selected:       false
 pub_post:       'Under review.'
 # pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
