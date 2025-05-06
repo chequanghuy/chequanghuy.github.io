@@ -3,7 +3,7 @@ title:          "Adaptive Scheme of Clustering-Based Unsupervised Learning for P
 date:           2024-01-1 00:01:00 +0800
 selected:       false
 pub:            "Asian Conference on Intelligent Information and Database Systems (ACIIDS)"
-pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
+# pub_last:       ' <span class="badge badge-pill badge-publication badge-success">Spotlight</span>'
 pub_date:       "2024"
 
 abstract: >-
