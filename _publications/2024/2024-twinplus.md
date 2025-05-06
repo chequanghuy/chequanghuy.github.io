@@ -17,4 +17,5 @@ authors:
   - Duc-Khai Lam
 links:
   Paper: https://arxiv.org/abs/2403.16958
+  Code: https://github.com/chequanghuy/TwinLiteNetPlus
 ---
