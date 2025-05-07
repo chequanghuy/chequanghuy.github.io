@@ -23,7 +23,7 @@ orcid: 0009-0007-7477-4702
 short_bio_text_justify: false
 short_bio: >-
   <p>
-    I am a researcher at <a href="https://mmlab.uit.edu.vn" target="_blank">MMLAB</a>, <a href="https://en.uit.edu.vn" target="_blank">University of Information Technology - VNUHCM</a>, under the supervision of Dr. Vinh-Tiep Nguyen and Dr. Duc-Khai Lam. I graduated with degrees in Computer Engineering and Computer Science from <a href="https://en.uit.edu.vn" target="_blank">University of Information Technology - VNUHCM</a>. Currently, I am pursuing a Master's degree in Computer Science at <a href="https://en.uit.edu.vn" target="_blank">University of Information Technology - VNUHCM</a>.
+    I am a researcher at <a href="https://mmlab.uit.edu.vn" target="_blank">MMLAB</a>, <a href="https://en.uit.edu.vn" target="_blank">University of Information Technology - VNUHCM (UIT - VNUHCM)</a>, under the supervision of Dr. Vinh-Tiep Nguyen and Dr. Duc-Khai Lam. I graduated with degrees in Computer Engineering and Computer Science from <a href="https://en.uit.edu.vn" target="_blank">UIT - VNUHCM</a>. Currently, I am pursuing a Master's degree in Computer Science at <a href="https://en.uit.edu.vn" target="_blank">UIT - VNUHCM</a>.
   </p>
 
 portrait_url: /assets/images/photos/chequanghuy.png
@@ -32,12 +32,12 @@ portrait_caption: >-
 
 education:
 - name: University of Information Technology - VNUHCM
-  logo: /assets/images/badges/cs.png
+  logo: /assets/images/badges/uit.png
   position: >- 
-    Master of Computer Science <br/>
+    M.Sc. in Computer Science <br/>
   date: 2023 - present
 - name: University of Information Technology - VNUHCM
-  logo: /assets/images/badges/ce.jpg
+  logo: /assets/images/badges/uit.jpg
   position: >- 
     B.S. in Computer Science <br/>
     B.Eng. in Computer Engineering <br/>
