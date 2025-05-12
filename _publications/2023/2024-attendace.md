@@ -1,6 +1,6 @@
 ---
 title:          "Intelligent Attendance System: Combining Fusion Setting with Robust Similarity Measure for Face Recognition"
-date:           2024-06-6 00:01:00 +0800
+date:           2023-06-6 00:01:00 +0800
 selected:       false
 pub:            "International Conference on Multimedia Analysis and Pattern Recognition (MAPR)"
 pub_date:       "2024"
